@@ -1,5 +1,5 @@
 package day18_conditions_practice_strings_intro;
-//test
+//test 1
 public class CarLeasingTest {
     public static void main(String[] args) {
         String make = "Audi";
