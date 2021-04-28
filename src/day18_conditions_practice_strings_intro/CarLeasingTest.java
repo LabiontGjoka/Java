@@ -1,5 +1,5 @@
 package day18_conditions_practice_strings_intro;
-
+//test
 public class CarLeasingTest {
     public static void main(String[] args) {
         String make = "Audi";
@@ -19,6 +19,7 @@ public class CarLeasingTest {
             }
 
         }else{
+            //s
             System.out.println("we don't sell that kind of car ");
             return;// exit program/ exits main method
         }
