@@ -13,7 +13,7 @@ public class Elavator {
         } else {
             System.out.println("Invalid floor - " + floorNum);
         }
-        System.out.println("======= SWITCH STATMET VERSION ========");
+        System.out.println("======= SWITCH STATEMENT VERSION ========");
 
         floorNum = 1;
         switch (floorNum) {

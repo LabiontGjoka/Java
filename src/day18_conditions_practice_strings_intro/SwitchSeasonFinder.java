@@ -22,7 +22,7 @@ public class SwitchSeasonFinder {
             case 9:
             case 10:
             case 11:
-                System.out.println("Autom");
+                System.out.println("Vjeshte");
                 break;
             default:
                 System.out.println("incorrect month " + month);

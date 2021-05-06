@@ -2,7 +2,7 @@ package day16_switch_ternary;
 
 public class CappuccinoByer {
     public static void main(String[] args) {
-        String size = "tall";
+        String size = "Tall";
         double price ;
         int calories ;
 
